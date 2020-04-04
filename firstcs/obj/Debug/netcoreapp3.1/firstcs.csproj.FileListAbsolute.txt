@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\bin\Debug\netcoreapp3.1\firstcs.exe
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\bin\Debug\netcoreapp3.1\firstcs.deps.json
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\bin\Debug\netcoreapp3.1\firstcs.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\bin\Debug\netcoreapp3.1\firstcs.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\bin\Debug\netcoreapp3.1\firstcs.dll
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\bin\Debug\netcoreapp3.1\firstcs.pdb
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.dll
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.pdb
+C:\Users\Administrator\Documents\GitHub\idontknow\firstcs\obj\Debug\netcoreapp3.1\firstcs.genruntimeconfig.cache
