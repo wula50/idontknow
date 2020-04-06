@@ -22,3 +22,5 @@ change in internet
 1、申请一个pull request，检查，通过后可以进行merged；否则，close掉就可以了。
 2、第一个分支Idontknow01是被close。
 3、第二个分支02成功merged了。
+
+尝试进行py和cs的的源代码在vscode中的调试运行
