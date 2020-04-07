@@ -24,3 +24,6 @@ change in internet
 3、第二个分支02成功merged了。
 
 尝试进行py和cs的的源代码在vscode中的调试运行
+
+
+这个项目里现在只有CS了，java和py都分到其他的文件夹了
