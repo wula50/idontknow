@@ -1,0 +1,15 @@
+// {type:usecase}
+// {direction:leftToRight}
+// {generate:true}
+
+(note: figure 3.1{bg:beige})
+[学生]-(浏览课件)
+[学生]-(观看教学视频)
+
+(浏览课件)>(登录)
+
+
+(观看教学视频)>(登录)
+
+(浏览课件)<(下载课件)
+(浏览课件)<(查找课件)
